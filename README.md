@@ -9,10 +9,14 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 
+### Screenshot
+
+![screenshot](screenshot/Sunnyside.png)
+
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/sunnysideagencylandingpage-html-sass-css-grid-js-BkKr0yS8c]
-- Live Site URL: [https://pooria98.github.io/Sunnyside-Agency-Landing-Page/]
+- Solution URL: [Sunnyside agency landing page solution](https://www.frontendmentor.io/solutions/sunnysideagencylandingpage-html-sass-css-grid-js-BkKr0yS8c)
+- Live Site URL: [Live Site](https://pooria98.github.io/Sunnyside-Agency-Landing-Page/)
 
 ### Built with
 
